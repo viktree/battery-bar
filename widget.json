@@ -1,0 +1,6 @@
+{
+  "name": "Battery Bar",
+  "description": "A bar at the top of the screen that indicates the battery life of the laptop. You can tweak the thickness, and colors of the bar.",
+  "author": "Vikram Venkataramanan",
+  "email": "vikram.venkataramanan@mail.utoronto.ca"
+}
