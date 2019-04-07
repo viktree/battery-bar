@@ -4,7 +4,7 @@
 Battery Bar is an  [Übersicht](https://github.com/felixhageloh/uebersicht) widget
 that provides a quick overview of how much battery the computer has left. It's inspired by [a similar utility for android](https://play.google.com/store/apps/details?id=com.bhanu.powerbar&hl=en)
 
-![BatteryBar](screenshot.png)
+![BatteryBar](./screenshots/bar.png)
 
 ## Installation
 
